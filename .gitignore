@@ -1,0 +1,36 @@
+/testingsanctum/node_modules
+/testingsanctum/public/hot
+/testingsanctum/public/storage
+/testingsanctum/storage/*.key
+/testingsanctum/vendor
+/testingsanctum/.env
+/testingsanctum/.env.backup
+/testingsanctum/.phpunit.result.cache
+/testingsanctum/Homestead.json
+/testingsanctum/Homestead.yaml
+/testingsanctum/npm-debug.log
+/testingsanctum/yarn-error.log
+
+/testingsanctumclient/.DS_Store
+/testingsanctum/node_modules
+/testingsanctum/dist
+
+# local env files
+/testingsanctum/.env.local
+/testingsanctum/.env.*.local
+
+# Log files
+/testingsanctum/npm-debug.log*
+/testingsanctum/yarn-debug.log*
+/testingsanctum/yarn-error.log*
+/testingsanctum/pnpm-debug.log*
+
+# Editor directories and files
+/testingsanctum/.idea
+/testingsanctum/.vscode
+/testingsanctum/*.suo
+/testingsanctum/*.ntvs*
+/testingsanctum/*.njsproj
+/testingsanctum/*.sln
+/testingsanctum/*.sw?
+
