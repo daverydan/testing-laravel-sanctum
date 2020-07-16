@@ -3,7 +3,6 @@
 /testingsanctum/public/storage
 /testingsanctum/storage/*.key
 /testingsanctum/vendor
-/testingsanctum/.env
 /testingsanctum/.env.backup
 /testingsanctum/.phpunit.result.cache
 /testingsanctum/Homestead.json
